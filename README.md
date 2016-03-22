@@ -24,14 +24,21 @@ File description
   -country_destination: this is the target variable you are to predict
   
 •	sessions.csv - web sessions log for users
+
   -user_id: to be joined with the column 'id' in users table
+  
   -action
+  
   -action_type
+  
   -action_detail
+  
   -device_type
+  
   -secs_elapsed
   
 •	countries.csv - summary statistics of destination countries in this dataset and their locations
+
 •	age_gender_bkts.csv - summary statistics of users' age group, gender, country of destination
 
-<a href = 'http://localhost:8888/notebooks/Desktop/data/data_explore.ipynb'>Data Explore</a>
+<a href = 'data_explore.ipynb'>Data Explore</a>
