@@ -35,5 +35,5 @@ File description</br>
 
 •	age_gender_bkts.csv - summary statistics of users' age group, gender, country of destination
 
-<a href = 'data_explore.ipynb'>Data Explore</a>
+<a href = 'data_explore.ipynb'>Data Explore</a></br>
 <a href = 'model.ipynb'>Model (Building)</a>
